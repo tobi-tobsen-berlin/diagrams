@@ -1,19 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2023-10-19T14:24:22.225Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="95uGuOJLVhY_aStbjetQ" version="22.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-19T14:35:59.250Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="S9JTZGNRp8HrXp5PCTAR" version="22.0.5" type="github">
   <diagram name="Page-1" id="Tt-KPcgtr2JWbifeF5cb">
-    <mxGraphModel dx="5620" dy="3760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2440" dy="1987" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="VJgOgyxq2lHakF2_pnbb-116" value="Datastore" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;dashed=1;" vertex="1" parent="1">
+        <mxCell id="VJgOgyxq2lHakF2_pnbb-116" value="Ingest App" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;dashed=1;fillColor=#FCFFED;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-250" y="-150" width="920" height="1370" as="geometry" />
         </mxCell>
-        <mxCell id="VJgOgyxq2lHakF2_pnbb-114" value="Datastore Backend" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;dashed=1;" vertex="1" parent="1">
+        <mxCell id="VJgOgyxq2lHakF2_pnbb-114" value="Datastore Backend" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="750" y="450" width="220" height="770" as="geometry" />
         </mxCell>
-        <mxCell id="VJgOgyxq2lHakF2_pnbb-80" value="Libs" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;dashed=1;" vertex="1" parent="1">
+        <mxCell id="VJgOgyxq2lHakF2_pnbb-80" value="Libs" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;dashed=1;fillColor=#FFF0ED;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="-200" y="-80" width="220" height="1250" as="geometry" />
         </mxCell>
-        <mxCell id="VJgOgyxq2lHakF2_pnbb-11" value="Pages" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;dashed=1;" vertex="1" parent="1">
+        <mxCell id="VJgOgyxq2lHakF2_pnbb-11" value="Pages" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;dashed=1;fillColor=#ECF2FF;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="110" y="-80" width="210" height="1240" as="geometry" />
         </mxCell>
         <mxCell id="VJgOgyxq2lHakF2_pnbb-65" value="Form" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
@@ -28,7 +28,7 @@
         <mxCell id="qGfRDHBIiTX8xyTDxI7H-20" value="web3" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="-175" y="190" width="175" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="qGfRDHBIiTX8xyTDxI7H-10" value="Store" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;dashed=1;" parent="1" vertex="1">
+        <mxCell id="qGfRDHBIiTX8xyTDxI7H-10" value="Store" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;dashed=1;fillColor=#EDFFF1;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
           <mxGeometry x="410" y="-80" width="210" height="1240" as="geometry" />
         </mxCell>
         <mxCell id="VJgOgyxq2lHakF2_pnbb-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qGfRDHBIiTX8xyTDxI7H-5" target="VJgOgyxq2lHakF2_pnbb-18">
