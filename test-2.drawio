@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-20T06:36:29.282Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="04HXst08yxEjlYq2R6X5" version="22.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-20T07:40:55.414Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="8pkeJmR_bDXYeGuA-JFn" version="22.0.5" type="github">
   <diagram name="Page-1" id="Tt-KPcgtr2JWbifeF5cb">
-    <mxGraphModel dx="2043" dy="1765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2276" dy="1897" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -70,16 +70,16 @@
         <mxCell id="qGfRDHBIiTX8xyTDxI7H-15" value="user" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="455" y="459" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qGfRDHBIiTX8xyTDxI7H-21" value="algorand" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="qGfRDHBIiTX8xyTDxI7H-21" value="Algorand" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-147.5" y="230" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qGfRDHBIiTX8xyTDxI7H-22" value="wallet connect" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="qGfRDHBIiTX8xyTDxI7H-22" value="Wallet Connect" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-147.5" y="270" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qGfRDHBIiTX8xyTDxI7H-23" value="metamask" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="qGfRDHBIiTX8xyTDxI7H-23" value="Metamask" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-147.5" y="310" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qGfRDHBIiTX8xyTDxI7H-24" value="coinbase" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="qGfRDHBIiTX8xyTDxI7H-24" value="Coinbase" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-147.5" y="350" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VJgOgyxq2lHakF2_pnbb-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI3MCIgdmlld0JveD0iMCAwIDcwIDU5IiBoZWlnaHQ9IjU5IiBmaWxsPSJub25lIj48ZyBmaWxsPSIjMDAwIj48cGF0aCBkPSJtMTMuNjEwNy4zMzMyNTJjLTcuNTE3MDQgMC0xMy42MTA3IDYuMDk0MzI4LTEzLjYxMDcgMTMuNjExMzQ4djM2Ljk0NDljMCA0LjI5NTUgMy40ODE4MyA3Ljc3NzQgNy43NzczMiA3Ljc3NzRoNTAuNTU2NThjNC4yOTU1IDAgNy43Nzc0LTMuNDgxOSA3Ljc3NzQtNy43Nzc0di01LjgzMzNoLTE1LjU1NTRjLTIuMTQ3OCAwLTMuODg4Ni0xLjc0MTUtMy44ODg2LTMuODg5M3YtMTUuNTU1M2MwLTIuMTQ3OSAxLjc0MDgtMy44ODg3IDMuODg4Ni0zLjg4ODdoMTUuNTU1NHYtNS44MzMzYzAtNC4yOTU1LTMuNDgxOS03Ljc3ODAyLTcuNzc3NC03Ljc3ODAyaC01MC41NTMyNGMtLjgwMTQzIDAtMS4yMjkxNy0uODk3MTMtLjYzMDg3LTEuNDI5NjggMS43MTgxNy0xLjUyOTk1IDMuOTgxMjEtMi40NTkgNi40NjIyMS0yLjQ1OWg0MC44MzMyYzEuMDc0MyAwIDEuOTQ0Ny0uODcxMSAxLjk0NDctMS45NDQ2NyAwLTEuMDczNTYtLjg3MDQtMS45NDQ2NjMtMS45NDQ3LTEuOTQ0NjYzeiIvPjxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgZD0ibTUwLjU1NTIgMjcuNTU2MmMwLTEuMDc0Mi44NjMzLTEuOTQ0NiAxLjkzNjgtMS45NDQ2aDE1LjU2MzhjMS4wNzM2IDAgMS45NDQuODcwNCAxLjk0NCAxLjk0NDZ2MTEuNjY2N2MwIDEuMDczNi0uODcxMSAxLjk0NC0xLjk0NDYgMS45NDRoLTE1LjU1NTRjLTEuMDc0MiAwLTEuOTQ0Ni0uODcwNS0xLjk0NDYtMS45NDR6bTMuODg4NiAyLjkxNjdjMC0uNTM3MS40MzU2LS45NzI2Ljk3MjctLjk3MjZoOS43MjJjLjUzNzEgMCAuOTcyLjQzNTUuOTcyLjk3MjZ2NS44MzMzYzAgLjUzNzEtLjQzNDkuOTcyLS45NzIuOTcyaC05LjcyMmMtLjUzNzEgMC0uOTcyNy0uNDM0OS0uOTcyNy0uOTcyeiIgY2xpcC1ydWxlPSJldmVub2RkIi8+PC9nPjwvc3ZnPg==;" vertex="1" parent="1">
